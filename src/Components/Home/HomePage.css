@@ -1,0 +1,24 @@
+.card button {
+  height: 2em;
+
+  font-size: 1em;
+
+  color: aliceblue;
+
+  border: none;
+  border-radius: 1em;
+
+  background: darkcyan;
+
+  margin: 1.5rem auto;
+}
+
+.card button:hover {
+  color: darkcyan;
+
+  background: aliceblue;
+
+  cursor: pointer;
+
+  transition: 0.5s;
+}

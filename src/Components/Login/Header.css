@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+
+  padding: 0 2rem;
+
+  background: darkcyan;
+
+  color: aliceblue;
+}
+
+

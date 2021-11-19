@@ -1,0 +1,17 @@
+.input-label {
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+.input {
+  width: 20em;
+  height: 2em;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  border: 2px solid darkcyan;
+  border-radius: 5px;
+
+  background: rgba(0, 139, 139, 0.1);
+}

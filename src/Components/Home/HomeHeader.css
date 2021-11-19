@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+
+  padding: 0 2rem;
+
+  background: darkcyan;
+
+  color: aliceblue;
+}
+
+.header span {
+  font-size: 1.4em;
+
+  padding: 1.2em;
+}
+
+.header span:hover {
+  color: aqua;
+
+  cursor: pointer;
+}
+
+.header button {
+  height: 2em;
+
+  font-size: 1.4em;
+
+  border: none;
+  border-radius: 1em;
+
+  background: #1ecaca;
+
+  box-shadow: 1px 1px 1px aliceblue;
+}
+
+.header button:hover {
+  background: aliceblue;
+
+  transition: 0.5s;
+}
